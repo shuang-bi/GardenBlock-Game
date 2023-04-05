@@ -10,8 +10,7 @@ namespace Hands
     {
         [SerializeField] private ActionBasedController _controller;
         [SerializeField] private Animator _animator;
-        [SerializeField] private MenuManager _menuManager;
-        
+
         private void Start()
         {
             _controller.selectAction.action.started += Point;
@@ -32,7 +31,7 @@ namespace Hands
 
         private void Fist(InputAction.CallbackContext obj)
         {
-            if(!_menuManager.gameObject.activeSelf) _animator.SetBool("Fist", true);
+            _animator.SetBool("Fist", true);
         }
         private void FistReleased(InputAction.CallbackContext obj)
         {
