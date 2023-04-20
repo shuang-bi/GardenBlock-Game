@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: ccd0e141e52d18940bdda48b9af43c1b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GT Maru
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0afbeccb5fb16594888d3688c391e720, type: 3}
+  - {fileID: 12800000, guid: b126f1af06b34b84eae954a0e0510465, type: 3}
+  - {fileID: 12800000, guid: 83cf76568e3c11a41a6c912cde9cd41c, type: 3}
+  - {fileID: 12800000, guid: 53c166cdd9102a64fbe941f2786192f7, type: 3}
+  - {fileID: 12800000, guid: 55a98449f40113b4b8423f27a38dbcdd, type: 3}
+  - {fileID: 12800000, guid: 418ae8da9e0d215479168a8dbd694049, type: 3}
+  - {fileID: 12800000, guid: f83881a97b6c6cc449bc42a8f4f69556, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
